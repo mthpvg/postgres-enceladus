@@ -3,6 +3,11 @@
 ## Setup
 - https://postgresapp.com/
 
+## Quick start
+```bash
+make clean && make
+```
+
 ## bash command
 ```bash
 psql
